@@ -20,7 +20,7 @@ Most shell timing plugins either just print a text line like `2.5s` or spawn ext
 
 1. Clone the repository
     ```zsh
-      git clone [https://github.com/bitryuu/zsh-zeit](https://github.com/bitryuu/zsh-zeit) ~/.zeit
+      git clone https://github.com/BitRyuu/zeit ~/.zeit
 
 2. Source it in .zshrc
     ```zsh
